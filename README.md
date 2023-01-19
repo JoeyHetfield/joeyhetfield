@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile
 
-I am a web development student from São Paulo, currently 26 years old, and I am in the process of transitioning my career to technology. My goal is to secure my first job as a developer.
+I am a web development student from Brazil, currently 26 years old, and I am in the process of transitioning my career to technology. My goal is to secure my first job as a developer.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
